@@ -1,0 +1,645 @@
+Name of State/UT,Name of District,District Code,Population (Census),Aadhaar Generated,Aadhaar Saturation %
+Andhra pradesh,Adilabad,SD001,2737738,2766300,101.04%
+Uttar Pradesh,Agra,SD002,4380793,3820622,87.21%
+Gujarat,Ahmedabad,SD003,7208200,6247440,86.67%
+Maharashtra,Ahmednagar,SD004,4543083,4565740,100.50%
+Mizoram,Aizawl,SD005,404054,275362,68.15%
+Rajasthan,Ajmer,SD006,2584913,2406884,93.11%
+Maharashtra,Akola,SD007,1818617,1746495,96.03%
+Kerala,Alappuzha,SD008,2121943,2210946,104.19%
+Uttar Pradesh,Aligarh,SD009,3673849,2891723,78.71%
+Madhya Pradesh,Alirajpur,SD010,728677,794811,109.08%
+Uttar Pradesh,Allahabad,SD011,5959798,4903046,82.27%
+Uttarakhand,Almora,SD012,621927,602563,96.89%
+Rajasthan,Alwar,SD013,3671999,3385744,92.20%
+Haryana,Ambala,SD014,1136784,1223438,107.62%
+Uttar Pradesh,Ambedkar Nagar,SD015,2398709,2009119,83.76%
+Maharashtra,Amravati,SD016,2887826,2844638,98.50%
+Gujarat,Amreli,SD017,1513614,1394853,92.15%
+Punjab,Amritsar,SD018,2490891,2589812,103.97%
+West Bengal,Amta - II,SD019,0,26,N.A.
+Gujarat,Anand,SD020,2090276,1969647,94.23%
+Andhra pradesh,Anantapur,SD021,4083315,4374784,107.14%
+Jammu & Kashmir,Anantnag,SD022,1069749,962972,90.02%
+Arunachal Pradesh,Anjaw,SD023,21089,0,0.00%
+Odisha,Anugul,SD024,1271703,1115062,87.68%
+Madhya Pradesh,Anuppur,SD025,749521,681344,90.90%
+Bihar,Araria,SD026,2806200,2452378,87.39%
+Tamil Nadu,Ariyalur,SD027,752481,743176,98.76%
+Bihar,Arwal,SD028,699563,538257,76.94%
+Madhya Pradesh,Ashoknagar,SD029,844979,659727,78.08%
+Uttar Pradesh,Auraiya,SD030,1372287,1072907,78.18%
+Bihar,Aurangabad (BH),SD031,2511243,1939294,77.22%
+Maharashtra,Aurangabad (MH),SD032,3695928,3665017,99.16%
+Uttar Pradesh,Azamgarh,SD033,4616509,3550682,76.91%
+Jammu & Kashmir,Badgam,SD034,755331,483766,64.05%
+Karnataka,Bagalkot,SD035,1890826,1843637,97.50%
+Uttarakhand,Bageshwar,SD036,259840,263814,101.53%
+Uttar Pradesh,Baghpat,SD037,1302156,962190,73.89%
+Uttar Pradesh,Bahraich,SD038,3478257,2245606,64.56%
+Assam,Baksa,SD039,953773,10396,1.09%
+Madhya Pradesh,Balaghat,SD040,1701156,1704091,100.17%
+Odisha,Balangir,SD041,1648574,1469687,89.15%
+Odisha,Baleshwar,SD042,2317419,1987378,85.76%
+Uttar Pradesh,Ballia,SD043,3223642,2687228,83.36%
+West Bengal,Bally Jagachha,SD044,0,585,N.A.
+Uttar Pradesh,Balrampur,SD045,2149066,1663788,77.42%
+Gujarat,Banas Kantha,SD046,3116045,2764705,88.72%
+Uttar Pradesh,Banda,SD047,1799541,1486321,82.59%
+Jammu & Kashmir,Bandipur,SD048,385099,255692,66.40%
+Karnataka,Bangalore,SD049,9588910,7871589,82.09%
+Karnataka,Bangalore Rural,SD050,987257,927205,93.92%
+Bihar,Banka,SD051,2029339,1689955,83.28%
+West Bengal,Bankura,SD052,3596292,3230621,89.83%
+Rajasthan,Banswara,SD053,1798194,1670793,92.92%
+Uttar Pradesh,Barabanki,SD054,3257983,3024965,92.85%
+Jammu & Kashmir,Baramula,SD055,1015503,663135,65.30%
+Rajasthan,Baran,SD056,1223921,1040099,84.98%
+West Bengal,Barddhaman,SD057,7723663,6639084,85.96%
+Uttar Pradesh,Bareilly,SD058,4465344,3817560,85.49%
+Odisha,Bargarh,SD059,1478833,1344047,90.89%
+Rajasthan,Barmer,SD060,2604453,2398990,92.11%
+Punjab,Barnala,SD061,596294,611635,102.57%
+Assam,Barpeta,SD062,1693190,30812,1.82%
+Madhya Pradesh,Barwani,SD063,1385659,1347879,97.27%
+Chhattisgarh,Bastar,SD064,1411644,829586,58.77%
+Uttar Pradesh,Basti,SD065,2461056,2080458,84.54%
+Punjab,Bathinda,SD066,1388859,1406954,101.30%
+Odisha,Baudh,SD067,439917,393552,89.46%
+Bihar,Begusarai,SD068,2954367,2371882,80.28%
+Karnataka,Belgaum,SD069,4778439,4509719,94.38%
+Karnataka,Bellary,SD070,2532383,2208924,87.23%
+Madhya Pradesh,Betul,SD071,1575247,1567050,99.48%
+Bihar,Bhabua (Kaimur),SD072,1626900,1293500,79.51%
+Odisha,Bhadrak ,SD073,1506522,1364378,90.56%
+Bihar,Bhagalpur,SD074,3032226,2178739,71.85%
+Maharashtra,Bhandara,SD075,1198810,1218173,101.62%
+Rajasthan,Bharatpur,SD076,2549121,2028536,79.58%
+Gujarat,Bharuch,SD077,1550822,1418458,91.46%
+Gujarat,Bhavnagar,SD078,2877961,2672064,92.85%
+Rajasthan,Bhilwara,SD079,2410459,2122767,88.06%
+Madhya Pradesh,Bhind,SD080,1703562,1199926,70.44%
+Haryana,Bhiwani,SD081,1629109,1719529,105.55%
+Bihar,Bhojpur,SD082,2720155,1728175,63.53%
+Madhya Pradesh,Bhopal,SD083,2368145,2402333,101.44%
+Maharashtra,Bid,SD084,2585962,2567686,99.29%
+Karnataka,Bidar,SD085,1700018,1587557,93.38%
+Karnataka,Bijapur (KAR),SD086,2175102,2003209,92.10%
+Chhattisgarh,Bijapur(CGH),SD087,255180,205622,80.58%
+Uttar Pradesh,Bijnor,SD088,3683896,3268974,88.74%
+Rajasthan,Bikaner,SD089,2367745,2032633,85.85%
+Chhattisgarh,Bilaspur (CH),SD090,2662077,2821900,106.00%
+Himachal Pradesh,Bilaspur (HP),SD091,382056,406341,106.36%
+West Bengal,Birbhum,SD092,3502387,3039050,86.77%
+Manipur,Bishnupur,SD093,240363,182753,76.03%
+Jharkhand,Bokaro,SD094,2061918,1990718,96.55%
+Assam,Bongaigaon,SD095,732639,11227,1.53%
+Uttar Pradesh,Budaun,SD096,3712738,2282897,61.49%
+Uttar Pradesh,Bulandshahr,SD097,3498507,2746007,78.49%
+Maharashtra,Buldana,SD098,2588039,2544923,98.33%
+Rajasthan,Bundi,SD099,1113725,950778,85.37%
+Madhya Pradesh,Burhanpur,SD100,756993,790244,104.39%
+Bihar,Buxar,SD101,1707643,1226458,71.82%
+Assam,Cachar,SD102,1736319,35163,2.03%
+Delhi,Central Delhi,SD103,578671,996213,172.16%
+Karnataka,Chamarajanagar,SD104,1020962,967071,94.72%
+Himachal Pradesh,Chamba,SD105,518844,529906,102.13%
+Uttarakhand,Chamoli,SD106,391114,368003,94.09%
+Uttarakhand,Champawat,SD107,259315,246073,94.89%
+Mizoram,Champhai,SD108,125370,56875,45.37%
+Uttar Pradesh,Chandauli,SD109,1952713,1694284,86.77%
+Manipur,Chandel,SD110,144028,79140,54.95%
+Chandigarh,Chandigarh,SD111,1054686,1115444,105.76%
+Maharashtra,Chandrapur,SD112,2194262,2125517,96.87%
+Arunachal Pradesh,Changlang,SD113,147951,99129,67.00%
+Jharkhand,Chatra,SD114,1042304,1042997,100.07%
+Tamil Nadu,Chennai,SD115,4681087,3834893,81.92%
+Madhya Pradesh,Chhatarpur,SD116,1762857,1766585,100.21%
+Madhya Pradesh,Chhindwara,SD117,2090306,2091714,100.07%
+Karnataka,Chikkaballapur,SD118,1254377,1146118,91.37%
+Karnataka,Chikmagalur,SD119,1137753,1037422,91.18%
+Assam,Chirang,SD120,481818,8062,1.67%
+Karnataka,Chitradurga,SD121,1660378,1603235,96.56%
+Uttar Pradesh,Chitrakoot,SD122,990626,907536,91.61%
+Rajasthan,Chittaurgarh,SD123,1544392,1425102,92.28%
+Andhra pradesh,Chittoor,SD124,4170468,4284416,102.73%
+Manipur,Churachandpur,SD125,271274,175777,64.80%
+Rajasthan,Churu,SD126,2041172,1867294,91.48%
+Tamil Nadu,Coimbatore,SD127,3472578,3139647,90.41%
+Tamil Nadu,Cuddalore,SD128,2600880,2375017,91.32%
+Andhra pradesh,Cuddapah (YSR Kadapa),SD129,2884524,2870049,99.50%
+Odisha,Cuttack,SD130,2618708,2277126,86.96%
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,SD131,342853,345599,100.80%
+West Bengal,Dakshin Dinajpur,SD132,1670931,1409754,84.37%
+Karnataka,Dakshina Kannada,SD133,2083625,2017225,96.81%
+Daman & Diu,Daman,SD134,190855,142973,74.91%
+Madhya Pradesh,Damoh,SD135,1263703,1220278,96.56%
+Chhattisgarh,Dantewada,SD136,532791,88219,16.56%
+Bihar,Darbhanga,SD137,3921971,3183255,81.16%
+West Bengal,Darjiling,SD138,1842034,1523543,82.71%
+Assam,Darrang,SD139,908090,7636,0.84%
+Madhya Pradesh,Datia,SD140,786375,653209,83.07%
+Rajasthan,Dausa,SD141,1637226,1474651,90.07%
+Karnataka,Davanagere,SD142,1946905,1905809,97.89%
+Odisha,Debagarh,SD143,312164,293987,94.18%
+Uttarakhand,Dehradun,SD144,1698560,1645294,96.86%
+Jharkhand,Deoghar,SD145,1491879,1491515,99.98%
+Uttar Pradesh,Deoria,SD146,3098637,2638774,85.16%
+Punjab,Dera Bassi,SD147,0,10,N.A.
+Madhya Pradesh,Dewas,SD148,1563107,1536238,98.28%
+Tripura,Dhalai,SD149,377988,381595,100.95%
+Chhattisgarh,Dhamtari,SD150,799199,832134,104.12%
+Jharkhand,Dhanbad,SD151,2682662,2546592,94.93%
+Madhya Pradesh,Dhar,SD152,2184672,2092415,95.78%
+Tamil Nadu,Dharmapuri,SD153,1502900,1445608,96.19%
+Karnataka,Dharwad,SD154,1846993,1901705,102.96%
+Rajasthan,Dhaulpur,SD155,1207293,966240,80.03%
+Assam,Dhemaji,SD156,688077,12783,1.86%
+Odisha,Dhenkanal,SD157,1192948,1082370,90.73%
+Assam,Dhubri,SD158,1948632,13146,0.67%
+Maharashtra,Dhule,SD159,2048781,2114414,103.20%
+Arunachal Pradesh,Dibang Valley,SD160,7948,5288,66.53%
+Assam,Dibrugarh,SD161,1327748,12470,0.94%
+Nagaland,Dimapur,SD162,379769,294515,77.55%
+Tamil Nadu,Dindigul,SD163,2161367,1978351,91.53%
+Madhya Pradesh,Dindori,SD164,704218,736705,104.61%
+Daman & Diu,Diu,SD165,52056,61078,117.33%
+Jammu & Kashmir,Doda,SD166,409576,531396,129.74%
+Gujarat,Dohad,SD167,2126558,1797413,84.52%
+Jharkhand,Dumka,SD168,1321096,1327395,100.48%
+Rajasthan,Dungarpur,SD169,1388906,1315536,94.72%
+Chhattisgarh,Durg,SD170,3343079,4833264,144.58%
+Sikkim,East,SD171,281293,275147,97.82%
+Delhi,East Delhi,SD172,1707725,2375232,139.09%
+Meghalaya,East Garo Hills,SD173,317618,18754,5.90%
+Arunachal Pradesh,East Kameng,SD175,78413,38491,49.09%
+Meghalaya,East Khasi Hills,SD176,824059,112228,13.62%
+Madhya Pradesh,East Nimar (Khandwa),SD177,1309443,1353201,103.34%
+Arunachal Pradesh,East Siang,SD178,99019,68785,69.47%
+Andhra pradesh,East godavari,SD174,5151549,5384745,104.53%
+Kerala,Ernakulam,SD179,3279860,3301574,100.66%
+Tamil Nadu,Erode,SD180,2259608,2127986,94.18%
+Uttar Pradesh,Etah,SD181,1761152,2611032,148.26%
+Uttar Pradesh,Etawah,SD182,1579160,1369581,86.73%
+Uttar Pradesh,Faizabad,SD183,2468371,2163657,87.66%
+Haryana,Faridabad,SD184,1798954,2320940,129.02%
+Punjab,Faridkot,SD185,618008,646957,104.68%
+Uttar Pradesh,Farrukhabad,SD186,1887577,1410547,74.73%
+Haryana,Fatehabad,SD187,941522,983069,104.41%
+Punjab,Fatehgarh Sahib,SD188,599814,631446,105.27%
+Uttar Pradesh,Fatehpur,SD189,2632684,2132235,80.99%
+Punjab,Fazilka,SD190,0,719954,N.A.
+Uttar Pradesh,Firozabad,SD191,2496761,2026353,81.16%
+Punjab,Firozpur,SD192,2026831,1334708,65.85%
+Karnataka,Gadag,SD193,1065235,1031858,96.87%
+Maharashtra,Gadchiroli,SD194,1071795,1060335,98.93%
+Odisha,Gajapati,SD195,575880,525627,91.27%
+Jammu & Kashmir,Ganderbal,SD196,297003,0,0.00%
+Gujarat,Gandhinagar,SD197,1387478,1252467,90.27%
+Rajasthan,Ganganagar,SD198,1969520,1816704,92.24%
+Odisha,Ganjam,SD199,3520151,3025228,85.94%
+Jharkhand,Garhwa,SD200,1322387,1379438,104.31%
+Uttarakhand,Garhwal,SD201,686527,651545,94.90%
+Uttar Pradesh,Gautam Buddha Nagar,SD202,1674714,1440590,86.02%
+Bihar,Gaya,SD203,4379383,2996807,68.43%
+Uttar Pradesh,Ghaziabad,SD204,4661452,3934971,84.42%
+Uttar Pradesh,Ghazipur,SD205,3622727,2703730,74.63%
+Jharkhand,Giridih,SD206,2445203,2485782,101.66%
+Assam,Goalpara,SD207,1008959,5704,0.57%
+Jharkhand,Godda,SD208,1311382,1323903,100.95%
+Assam,Golaghat,SD209,1058674,156876,14.82%
+Uttar Pradesh,Gonda,SD210,3431386,2496447,72.75%
+Maharashtra,Gondiya,SD211,1322331,1339281,101.28%
+Bihar,Gopalganj,SD212,2558037,2048103,80.07%
+Uttar Pradesh,Gorakhpur,SD213,4436275,3634620,81.93%
+Karnataka,Gulbarga,SD214,2564892,2212545,86.26%
+Jharkhand,Gumla,SD215,1025656,1087563,106.04%
+Madhya Pradesh,Guna,SD216,1240938,1245365,100.36%
+Andhra pradesh,Guntur,SD217,4889230,4922080,100.67%
+Punjab,Gurdaspur,SD218,2299026,2203693,95.85%
+Haryana,Gurgaon,SD219,1514085,1497342,98.89%
+Madhya Pradesh,Gwalior,SD220,2030543,1803239,88.81%
+Assam,Hailakandi,SD221,659260,12664,1.92%
+Himachal Pradesh,Hamirpur (HP),SD222,454293,533712,117.48%
+Uttar Pradesh,Hamirpur (UP),SD223,1104021,1043274,94.50%
+Rajasthan,Hanumangarh,SD224,1779650,1632489,91.73%
+West Bengal,Haora,SD225,4841638,4216377,87.09%
+Madhya Pradesh,Harda,SD226,570302,565014,99.07%
+Uttar Pradesh,Hardoi,SD227,4091380,3589773,87.74%
+Uttarakhand,Hardwar,SD228,1927029,1723087,89.42%
+Karnataka,Hassan,SD229,1776221,1706243,96.06%
+Uttar Pradesh,Hathras (Mahamaya),SD230,1565678,1272772,81.29%
+Karnataka,Haveri,SD231,1598506,1593135,99.66%
+Jharkhand,Hazaribag,SD232,1734005,1786203,103.01%
+Maharashtra,Hingoli,SD233,1178973,1170219,99.26%
+Haryana,Hisar,SD234,1742815,1822273,104.56%
+Madhya Pradesh,Hoshangabad,SD235,1240975,1294238,104.29%
+Punjab,Hoshiarpur,SD236,1582793,1709487,108.00%
+West Bengal,Hugli,SD237,5520389,5039299,91.29%
+Kerala,Idukki,SD238,1107453,1123531,101.45%
+Manipur,Imphal East,SD239,452661,368107,81.32%
+Manipur,Imphal West,SD240,514683,436275,84.77%
+Madhya Pradesh,Indore,SD241,3272335,3128090,95.59%
+Madhya Pradesh,Jabalpur,SD242,2460714,2423016,98.47%
+Odisha,Jagatsinghapur ,SD243,1136604,250751,22.06%
+Meghalaya,Jaintia Hills,SD244,392852,1263,0.32%
+Rajasthan,Jaipur,SD245,6663971,5788087,86.86%
+Rajasthan,Jaisalmer,SD246,672008,574390,85.47%
+Odisha,Jajapur,SD247,1826275,1565011,85.69%
+Punjab,Jalandhar,SD248,2181753,2386215,109.37%
+Uttar Pradesh,Jalaun,SD249,1670718,1330287,79.62%
+Maharashtra,Jalgaon,SD250,4224442,4199348,99.41%
+Maharashtra,Jalna,SD251,1958483,1959748,100.06%
+Rajasthan,Jalor,SD252,1830151,1655536,90.46%
+West Bengal,Jalpaiguri,SD253,3869675,3203339,82.78%
+Jammu & Kashmir,Jammu,SD254,1526406,1459954,95.65%
+Gujarat,Jamnagar,SD255,2159130,1825582,84.55%
+Jharkhand,Jamtara,SD256,790207,820035,103.77%
+Bihar,Jamui,SD257,1756078,1328902,75.67%
+Chhattisgarh,Janjgir - Champa,SD258,1620632,1761252,108.68%
+Chhattisgarh,Jashpur,SD259,852043,865152,101.54%
+Uttar Pradesh,Jaunpur,SD260,4476072,3688493,82.40%
+Bihar,Jehanabad,SD261,1124176,690097,61.39%
+Madhya Pradesh,Jhabua,SD262,1024091,1132929,110.63%
+Haryana,Jhajjar,SD263,956907,989173,103.37%
+Rajasthan,Jhalawar,SD264,1411327,1256061,89.00%
+Uttar Pradesh,Jhansi,SD265,2000755,1685373,84.24%
+Odisha,Jharsuguda,SD266,579499,498888,86.09%
+Rajasthan,Jhunjhunun,SD267,2139658,2014232,94.14%
+Haryana,Jind,SD268,1332042,1397989,104.95%
+Rajasthan,Jodhpur,SD269,3685681,3199265,86.80%
+Assam,Jorhat,SD270,1091295,16818,1.54%
+Gujarat,Junagadh,SD271,2742291,2545760,92.83%
+Uttar Pradesh,Jyotiba Phule Nagar,SD272,1838771,1628867,88.58%
+Gujarat,Kachchh,SD273,2090313,1716869,82.13%
+Haryana,Kaithal,SD274,1072861,1150417,107.23%
+Odisha,Kalahandi,SD275,1573054,1305243,82.98%
+Assam,Kamrup,SD276,1517202,53541,3.53%
+Assam,Kamrup Metropolitan,SD277,1260419,13342,1.06%
+Tamil Nadu,Kancheepuram,SD278,3990897,3776057,94.62%
+Odisha,Kandhamal,SD279,731952,629302,85.98%
+Himachal Pradesh,Kangra,SD280,1507223,1663513,110.37%
+Chhattisgarh,Kanker,SD281,748593,423879,56.62%
+Uttar Pradesh,Kannauj,SD282,1658005,1302783,78.58%
+Tamil Nadu,Kanniyakumari,SD283,1863174,1797156,96.46%
+Kerala,Kannur,SD284,2525637,2663536,105.46%
+Uttar Pradesh,Kanpur Dehat,SD285,1795092,1422084,79.22%
+Uttar Pradesh,Kanpur Nagar,SD286,4572951,3898959,85.26%
+Uttar Pradesh,Kanshiram Nagar,SD287,1438156,0,0.00%
+Punjab,Kapurthala,SD288,817668,864417,105.72%
+Puducherry,Karaikal,SD289,200314,198920,99.30%
+Rajasthan,Karauli,SD290,1458459,1169684,80.20%
+Assam,Karbi Anglong,SD291,965280,11948,1.24%
+Jammu & Kashmir,Kargil,SD292,143388,97976,68.33%
+Assam,Karimganj,SD293,1217002,16938,1.39%
+Andhra pradesh,Karimnagar,SD294,3811738,3649975,95.76%
+Haryana,Karnal,SD295,1506323,1609823,106.87%
+Tamil Nadu,Karur,SD296,1076588,983699,91.37%
+Kerala,Kasaragod,SD297,1302600,1356570,104.14%
+Jammu & Kashmir,Kathua,SD298,615711,537105,87.23%
+Bihar,Katihar,SD299,3068149,2622239,85.47%
+Madhya Pradesh,Katni,SD300,1291684,1223233,94.70%
+Uttar Pradesh,Kaushambi,SD301,1596909,1201078,75.21%
+Chhattisgarh,Kawardha (Kabeerdham),SD302,822239,656215,79.81%
+Odisha,Kendrapara,SD303,1439891,1299764,90.27%
+Odisha,Kendujhar,SD304,1802777,1532158,84.99%
+Bihar,Khagaria,SD305,1657599,1138605,68.69%
+Andhra pradesh,Khammam,SD306,2798214,2716880,97.09%
+Gujarat,Kheda,SD307,2298934,2073820,90.21%
+Uttar Pradesh,Kheri,SD308,4013634,3597093,89.62%
+Odisha,Khordha ,SD309,2246341,2013333,89.63%
+Jharkhand,Khunti,SD310,530299,545675,102.90%
+Himachal Pradesh,Kinnaur,SD311,84298,80503,95.50%
+Nagaland,Kiphire,SD312,74033,38860,52.49%
+Bihar,Kishanganj,SD313,1690948,1569454,92.82%
+Jammu & Kashmir,Kishtwar,SD314,231037,0,0.00%
+West Bengal,Koch Bihar,SD315,2822780,2514666,89.08%
+Karnataka,Kodagu,SD316,554762,518496,93.46%
+Jharkhand,Kodarma,SD317,717169,746421,104.08%
+Nagaland,Kohima,SD318,270063,168384,62.35%
+Assam,Kokrajhar,SD319,886999,8787,0.99%
+Karnataka,Kolar,SD320,1540231,1406531,91.32%
+Mizoram,Kolasib,SD321,83054,40999,49.36%
+Maharashtra,Kolhapur,SD322,3874015,3847913,99.33%
+West Bengal,Kolkata,SD323,4486679,3574453,79.67%
+Kerala,Kollam,SD324,2629703,2703560,102.81%
+Karnataka,Koppal,SD325,1391292,1318296,94.75%
+Odisha,Koraput,SD326,1376934,1142857,83.00%
+Chhattisgarh,Korba,SD327,1206563,1175621,97.44%
+Chhattisgarh,Koriya,SD328,659039,669782,101.63%
+Rajasthan,Kota,SD329,1950491,1707624,87.55%
+Kerala,Kottayam,SD330,1979384,2046696,103.40%
+Kerala,Kozhikode,SD331,3089543,3223678,104.34%
+Andhra pradesh,Krishna,SD332,4529009,4488762,99.11%
+Tamil Nadu,Krishnagiri,SD333,1883731,1649768,87.58%
+Jammu & Kashmir,Kulgam,SD334,423181,0,0.00%
+Himachal Pradesh,Kullu,SD335,437474,444491,101.60%
+Jammu & Kashmir,Kupwara,SD336,875564,507837,58.00%
+Andhra pradesh,Kurnool,SD337,4046601,4097780,101.26%
+Haryana,Kurukshetra,SD338,964231,1028614,106.68%
+Arunachal Pradesh,Kurung Kumey,SD339,89717,0,0.00%
+Uttar Pradesh,Kushinagar,SD340,3560830,2846612,79.94%
+Himachal Pradesh,Lahul & Spiti,SD341,31528,29689,94.17%
+Assam,Lakhimpur,SD342,1040644,12912,1.24%
+Bihar,Lakhisarai,SD343,1000717,693294,69.28%
+Lakshadweep,Lakshadweep,SD344,64429,67119,104.18%
+Uttar Pradesh,Lalitpur,SD345,1218002,1011708,83.06%
+Jharkhand,Latehar,SD346,725673,757996,104.45%
+Maharashtra,Latur,SD347,2455543,2338160,95.22%
+Mizoram,Lawngtlai,SD348,117444,34369,29.26%
+Jammu & Kashmir,Leh (ladakh),SD349,147104,87073,59.19%
+Jharkhand,Lohardaga,SD350,461738,519872,112.59%
+Arunachal Pradesh,Lohit,SD351,145538,58658,40.30%
+Nagaland,Longleng ,SD352,50593,33409,66.03%
+Arunachal Pradesh,Lower Dibang Valley,SD353,53986,0,0.00%
+Arunachal Pradesh,Lower Subansiri,SD354,82839,45493,54.92%
+Uttar Pradesh,Lucknow,SD355,4588455,4173359,90.95%
+Punjab,Ludhiana,SD356,3487882,4161500,119.31%
+Mizoram,Lunglei,SD357,154094,73018,47.39%
+Bihar,Madhepura,SD358,1994618,1518506,76.13%
+Bihar,Madhubani,SD359,4476044,3333195,74.47%
+Tamil Nadu,Madurai,SD360,3041038,2892876,95.13%
+Chhattisgarh,Mahasamund,SD361,1032275,1102128,106.77%
+Andhra pradesh,Mahbubnagar,SD362,4042191,3768470,93.23%
+Puducherry,Mahe,SD363,41934,0,0.00%
+Haryana,Mahendragarh,SD364,921680,932840,101.21%
+Gujarat,Mahesana,SD365,2027727,1933794,95.37%
+Uttar Pradesh,Mahoba,SD366,876055,726899,82.97%
+Uttar Pradesh,Mahrajganj,SD367,2665292,2160131,81.05%
+Uttar Pradesh,Mainpuri,SD368,1847194,1485238,80.41%
+Kerala,Malappuram,SD369,4110956,4319303,105.07%
+West Bengal,Maldah,SD370,3997970,3480864,87.07%
+Odisha,Malkangiri,SD371,612727,16707,2.73%
+Mizoram,Mamit,SD372,85757,31031,36.18%
+Himachal Pradesh,Mandi,SD373,999518,1088397,108.89%
+Madhya Pradesh,Mandla,SD374,1053522,1066373,101.22%
+Madhya Pradesh,Mandsaur,SD375,1339832,1324893,98.89%
+Karnataka,Mandya,SD376,1808680,1706491,94.35%
+Punjab,Mansa,SD377,768808,785934,102.23%
+Assam,Marigaon,SD378,957853,8532,0.89%
+Uttar Pradesh,Mathura,SD379,2541894,1960739,77.14%
+Uttar Pradesh,Mau,SD380,2205170,1775367,80.51%
+Odisha,Mayurbhanj,SD381,2513895,2224625,88.49%
+Andhra pradesh,Medak,SD382,3031877,2844644,93.82%
+Uttar Pradesh,Meerut,SD383,3447405,3085786,89.51%
+Haryana,Mewat,SD384,1089406,1171807,107.56%
+Uttar Pradesh,Mirzapur,SD385,2494533,2266183,90.85%
+Punjab,Moga,SD386,992289,1031690,103.97%
+Nagaland,Mokokchung,SD387,193171,108954,56.40%
+Nagaland,Mon,SD388,250671,122663,48.93%
+Uttar Pradesh,Moradabad,SD389,4773138,4451547,93.26%
+Madhya Pradesh,Morena,SD390,1965137,1609525,81.90%
+Punjab,Muktsar,SD391,902702,939928,104.12%
+Maharashtra,Mumbai (incl. Mumbai SubUrban & Mumbai City) ,SD392,12478447,12057231,96.62%
+Bihar,Munger,SD393,1359054,875859,64.45%
+West Bengal,Murshidabad,SD394,7102430,6145127,86.52%
+Uttar Pradesh,Muzaffarnagar,SD395,4138605,3407780,82.34%
+Bihar,Muzaffarpur,SD396,4778610,3799390,79.51%
+Karnataka,Mysore,SD397,2994744,2979304,99.48%
+Odisha,Nabarangapur,SD398,1218762,1021031,83.78%
+West Bengal,Nadia,SD399,5168488,4387018,84.88%
+Assam,Nagaon,SD400,2826006,1132136,40.06%
+Tamil Nadu,Nagapattinam,SD401,1614069,1485458,92.03%
+Rajasthan,Nagaur,SD402,3309234,2932032,88.60%
+Maharashtra,Nagpur,SD403,4653171,4668682,100.33%
+Uttarakhand,Nainital,SD404,955128,944609,98.90%
+Bihar,Nalanda,SD405,2872523,2126050,74.01%
+Assam,Nalbari,SD406,769919,7262,0.94%
+Andhra pradesh,Nalgonda,SD407,3483648,3282169,94.22%
+Tamil Nadu,Namakkal,SD408,1721179,1544778,89.75%
+Maharashtra,Nanded,SD409,3356566,3177673,94.67%
+Maharashtra,Nandurbar,SD410,1646177,1643572,99.84%
+Chhattisgarh,Narayanpur,SD411,140206,131428,93.74%
+Gujarat,Narmada,SD412,590379,537657,91.07%
+Madhya Pradesh,Narsimhapur,SD413,1092141,1037343,94.98%
+Maharashtra,Nashik,SD414,6109052,6013767,98.44%
+Gujarat,Navsari,SD415,1330711,1244859,93.55%
+Bihar,Nawada,SD416,2216653,1414592,63.82%
+Punjab,Nawanshahr,SD417,614362,663082,107.93%
+Odisha,Nayagarh,SD418,962215,861133,89.49%
+Madhya Pradesh,Neemuch,SD419,825958,787771,95.38%
+Andhra pradesh,Nellore (sri Potti Sriramulu Nellore),SD420,2966082,2970474,100.15%
+Delhi,New Delhi,SD421,133713,35523,26.57%
+Andaman & Nicobar Islands,Nicobars,SD422,36819,33355,90.59%
+Andhra pradesh,Nizamabad,SD423,2552073,2473499,96.92%
+Sikkim,North,SD424,43354,36094,83.25%
+Andaman & Nicobar Islands,North & Middle Andamans,SD425,105539,215795,204.47%
+Assam,North Cachar Hills,SD426,213529,1450,0.68%
+Delhi,North Delhi,SD427,883418,1062092,120.23%
+Delhi,North East Delhi,SD428,2240749,2443649,109.06%
+Goa,North Goa,SD429,817761,836800,102.33%
+Tripura,North Tripura,SD430,693281,673042,97.08%
+West Bengal,North Twenty Four Parganas,SD431,10082852,8151203,80.84%
+Delhi,North West Delhi,SD432,3651261,4644543,127.20%
+Odisha,Nuapada,SD433,606490,569346,93.88%
+Maharashtra,Osmanabad,SD434,1660311,1613168,97.16%
+Jharkhand,Pakaur,SD435,899200,954329,106.13%
+Kerala,Palakkad,SD436,2810892,2928664,104.19%
+Jharkhand,Palamu,SD437,1936319,1956273,101.03%
+Rajasthan,Pali,SD438,2038533,2030225,99.59%
+Haryana,Palwal,SD439,1040493,1082780,104.06%
+Gujarat,Panch Mahals,SD440,2388267,2102778,88.05%
+Haryana,Panchkula,SD441,558890,578672,103.54%
+Haryana,Panipat,SD442,1202811,1344350,111.77%
+Madhya Pradesh,Panna,SD443,1016028,1006752,99.09%
+Arunachal Pradesh,Papum Pare,SD444,176385,152898,86.68%
+Maharashtra,Parbhani,SD445,1835982,1782463,97.08%
+West Bengal,Paschim Medinipur,SD446,5943300,1167116,19.64%
+Bihar,Pashchim Champaran,SD447,3922780,3248624,82.81%
+Jharkhand,Pashchimi Singhbhum,SD448,1501619,1561568,103.99%
+Gujarat,Patan,SD449,1342746,1298911,96.74%
+Kerala,Pathanamthitta,SD450,1195537,1305404,109.19%
+Punjab,Pathankot,SD451,0,205003,N.A.
+Punjab,Patiala,SD452,1892282,1994639,105.41%
+Bihar,Patna,SD453,5772804,4569602,79.16%
+Tamil Nadu,Perambalur,SD454,564511,547055,96.91%
+Nagaland,Peren,SD455,94954,22621,23.82%
+Nagaland,Phek,SD456,163294,88191,54.01%
+Uttar Pradesh,Pilibhit,SD457,2037225,1912887,93.90%
+Uttarakhand,Pithoragarh,SD458,485993,471274,96.97%
+Gujarat,Porbandar,SD459,586062,570293,97.31%
+Andhra pradesh,Prakasam,SD460,3392764,3427301,101.02%
+Rajasthan,Pratapgarh (RJ),SD461,868231,780253,89.87%
+Uttar Pradesh,Pratapgarh (UP),SD462,3173752,2698844,85.04%
+Puducherry,Puducherry,SD463,946600,1048053,110.72%
+Tamil Nadu,Pudukkottai,SD464,1618725,1524913,94.20%
+Jammu & Kashmir,Pulwama,SD465,570060,557081,97.72%
+Jammu & Kashmir,Punch,SD466,476820,326715,68.52%
+Maharashtra,Pune,SD467,9426959,8816181,93.52%
+Bihar,Purba Champaran,SD468,5082868,3774982,74.27%
+Jharkhand,Purbi Singhbhum,SD469,2291032,2225504,97.14%
+West Bengal,Purbo Medinipur,SD470,5094238,1844255,36.20%
+Odisha,Puri,SD471,1697983,1486016,87.52%
+Bihar,Purnea,SD472,3273127,2950665,90.15%
+West Bengal,Puruliya,SD473,2927965,2493448,85.16%
+Uttar Pradesh,Rae Bareli,SD474,3404004,2387234,70.13%
+Karnataka,Raichur,SD475,1924773,1781749,92.57%
+Chhattisgarh,Raigarh (CH),SD476,1493627,1515828,101.49%
+Maharashtra,Raigarh (MH),SD477,2635394,2579764,97.89%
+Chhattisgarh,Raipur,SD478,4062160,2754602,67.81%
+Madhya Pradesh,Raisen,SD479,1331699,1211497,90.97%
+Jammu & Kashmir,Rajauri,SD480,619266,461910,74.59%
+Madhya Pradesh,Rajgarh,SD481,1546541,1402140,90.66%
+Gujarat,Rajkot,SD482,3799770,3477734,91.52%
+Chhattisgarh,Rajnandgaon,SD483,1537520,1586639,103.19%
+Rajasthan,Rajsamand,SD484,1158283,1061441,91.64%
+Karnataka,Ramanagar,SD485,1082739,1002913,92.63%
+Tamil Nadu,Ramanathapuram,SD486,1337560,1159889,86.72%
+Jammu & Kashmir,Ramban,SD487,283313,0,0.00%
+Jharkhand,Ramgarh,SD488,949159,936519,98.67%
+Uttar Pradesh,Rampur,SD489,2335398,1983630,84.94%
+Jharkhand,Ranchi,SD490,2912022,2895818,99.44%
+Andhra pradesh,Rangareddi (inclg. Hyderabad),SD491,9306634,10950043,117.66%
+Madhya Pradesh,Ratlam,SD492,1454483,1396250,96.00%
+Maharashtra,Ratnagiri,SD493,1612672,1697181,105.24%
+Odisha,Rayagada,SD494,961959,801148,83.28%
+Jammu & Kashmir,Reasi,SD495,314714,155088,49.28%
+Madhya Pradesh,Rewa,SD496,2363744,2193805,92.81%
+Haryana,Rewari,SD497,896129,918737,102.52%
+Meghalaya,Ri Bhoi,SD498,258380,20366,7.88%
+Haryana,Rohtak,SD499,1058683,1105755,104.45%
+Bihar,Rohtas,SD500,2962593,2233618,75.39%
+Uttarakhand,Rudraprayag,SD501,236857,239065,100.93%
+Punjab,Rupnagar,SD502,683349,742011,108.58%
+Punjab,S.A.S Nagar(Mohali),SD503,986147,965491,97.91%
+Gujarat,Sabar Kantha,SD504,2427346,2045237,84.26%
+Madhya Pradesh,Sagar,SD505,2378295,2262414,95.13%
+Uttar Pradesh,Saharanpur,SD506,3464228,3211414,92.70%
+Bihar,Saharsa,SD507,1897102,1532173,80.76%
+Jharkhand,Sahibganj,SD508,1150038,1223193,106.36%
+Mizoram,Saiha,SD509,56366,19444,34.50%
+Tamil Nadu,Salem,SD510,3480008,3299273,94.81%
+Jammu & Kashmir,Samba,SD511,318611,0,0.00%
+Odisha,Sambalpur,SD512,1044410,871230,83.42%
+Bihar,Samstipur,SD513,4254782,3349087,78.71%
+Maharashtra,Sangli,SD514,2820575,2781787,98.62%
+Punjab,Sangrur,SD515,1654408,1698102,102.64%
+Uttar Pradesh,Sant Kabir Nagar,SD516,1714300,1417052,82.66%
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,SD517,1554203,1407347,90.55%
+Bihar,Saran,SD518,3943098,2822661,71.58%
+Maharashtra,Satara,SD519,3003922,3019220,100.51%
+Madhya Pradesh,Satna,SD520,2228619,2065922,92.70%
+Rajasthan,Sawai Madhopur,SD521,1338114,1151190,86.03%
+Madhya Pradesh,Sehore,SD522,1311008,1185072,90.39%
+Manipur,Senapati,SD523,354972,187034,52.69%
+Madhya Pradesh,Seoni,SD524,1378876,1378991,100.01%
+Jharkhand,Seraikela-kharsawan,SD525,1063458,1063882,100.04%
+Mizoram,Serchhip,SD526,64875,26030,40.12%
+Madhya Pradesh,Shahdol,SD527,1064989,1084030,101.79%
+Uttar Pradesh,Shahjahanpur,SD528,3002376,2376477,79.15%
+Madhya Pradesh,Shajapur,SD529,1512353,1480471,97.89%
+Bihar,Sheikpura,SD530,634927,506398,79.76%
+Bihar,Sheohar,SD531,656916,473493,72.08%
+Madhya Pradesh,Sheopur,SD532,687952,579354,84.21%
+Himachal Pradesh,Shimla,SD533,813384,789158,97.02%
+Karnataka,Shimoga,SD534,1755512,1423841,81.11%
+Madhya Pradesh,Shivpuri,SD535,1725818,1535816,88.99%
+Uttar Pradesh,Shrawasti,SD536,1114615,1076075,96.54%
+Jammu & Kashmir,Shupiyan,SD537,265960,0,0.00%
+Assam,Sibsagar,SD538,1150253,13315,1.16%
+Uttar Pradesh,Siddharthnagar,SD539,2553526,1895004,74.21%
+Madhya Pradesh,Sidhi,SD540,1126515,1142843,101.45%
+Rajasthan,Sikar,SD541,2677737,2479982,92.61%
+Jharkhand,Simdega,SD542,599813,628242,104.74%
+Maharashtra,Sindhudurg,SD543,848868,815136,96.03%
+Madhya Pradesh,Singrauli,SD544,1178132,1068319,90.68%
+Himachal Pradesh,Sirmaur,SD545,530164,533586,100.65%
+Rajasthan,Sirohi,SD546,1037185,917541,88.46%
+Haryana,Sirsa,SD547,1295114,1349763,104.22%
+Bihar,Sitamarhi,SD548,3419622,2470388,72.24%
+Uttar Pradesh,Sitapur,SD549,4474446,3882464,86.77%
+Tamil Nadu,Sivaganga,SD550,1341250,1220493,91.00%
+Bihar,Siwan,SD551,3318176,2507681,75.57%
+Himachal Pradesh,Solan,SD552,576670,555969,96.41%
+Maharashtra,Solapur,SD553,4315527,4115441,95.36%
+Odisha,Sonapur,SD554,652107,509190,78.08%
+Uttar Pradesh,Sonbhadra,SD555,1862612,1820321,97.73%
+Haryana,Sonipat,SD556,1480080,1527896,103.23%
+Assam,Sonitpur,SD557,1925975,169863,8.82%
+Sikkim,South,SD558,146742,145924,99.44%
+West Bengal,South  Twenty Four Parganas,SD559,8153176,7688036,94.29%
+Andaman & Nicobar Islands,South Andaman,SD560,237586,140325,59.06%
+Delhi,South Delhi,SD561,2733752,3322548,121.54%
+Meghalaya,South Garo Hills,SD562,142574,186,0.13%
+Goa,South Goa,SD563,639962,645402,100.85%
+Tripura,South Tripura,SD564,875144,868593,99.25%
+Delhi,South West Delhi,SD565,2292363,2598188,113.34%
+Andhra pradesh,Srikakulam,SD566,2699471,2889043,107.02%
+Jammu & Kashmir,Srinagar,SD567,1250173,729380,58.34%
+Uttar Pradesh,Sultanpur,SD568,3790922,3718899,98.10%
+Odisha,Sundargarh,SD569,2080664,1728649,83.08%
+Bihar,Supaul,SD570,2228397,1808477,81.16%
+Gujarat,Surat,SD571,6079231,5482181,90.18%
+Gujarat,Surendranagar,SD572,1755873,1659063,94.49%
+Chhattisgarh,Surguja,SD573,2361329,1830333,77.51%
+Manipur,Tamenglong,SD574,140143,67563,48.21%
+Gujarat,Tapi,SD575,806489,723243,89.68%
+Punjab,Tarn Taran,SD576,1120070,1149901,102.66%
+Arunachal Pradesh,Tawang,SD577,49950,31662,63.39%
+Uttarakhand,Tehri Garhwal,SD578,616409,570892,92.62%
+Maharashtra,Thane,SD579,11054131,9797993,88.64%
+Tamil Nadu,Thanjavur,SD580,2402781,2172829,90.43%
+Gujarat,The Dangs,SD581,226769,244041,107.62%
+Tamil Nadu,The Nilgiris,SD582,735071,671051,91.29%
+Tamil Nadu,Theni,SD583,1243684,1183969,95.20%
+Tamil Nadu,Thiruvallur,SD584,3725697,3574675,95.95%
+Kerala,Thiruvananthapuram,SD585,3307284,3276768,99.08%
+Tamil Nadu,Thiruvarur,SD586,1268094,1146277,90.39%
+Tamil Nadu,Thoothukkudi,SD587,1738376,1644266,94.59%
+Manipur,Thoubal,SD588,420517,308570,73.38%
+Kerala,Thrissur,SD589,3110327,3225269,103.70%
+Madhya Pradesh,Tikamgarh,SD590,1444920,1353962,93.70%
+Assam,Tinsukia,SD591,1316948,12604,0.96%
+Arunachal Pradesh,Tirap,SD592,111997,51715,46.18%
+Tamil Nadu,Tiruchirappalli,SD593,2713858,2566741,94.58%
+Tamil Nadu,Tirunelveli,SD594,3072880,2936486,95.56%
+Tamil Nadu,Tiruppur,SD595,2471222,2072926,83.88%
+Tamil Nadu,Tiruvannamalai,SD596,2468965,2243895,90.88%
+Rajasthan,Tonk,SD597,1421711,1262215,88.78%
+Nagaland,Tuensang,SD598,196801,107548,54.65%
+Karnataka,Tumkur,SD599,2681449,2735576,102.02%
+Rajasthan,Udaipur,SD600,3067549,2774458,90.45%
+Assam,Udalguri,SD601,832769,18731,2.25%
+Uttarakhand,Udham Singh Nagar,SD602,1648367,1579849,95.84%
+Jammu & Kashmir,Udhampur,SD603,555357,532999,95.97%
+Karnataka,Udupi,SD604,1177908,1198993,101.79%
+Madhya Pradesh,Ujjain,SD605,1986597,1866298,93.94%
+Manipur,Ukhrul,SD606,183115,97520,53.26%
+Madhya Pradesh,Umaria,SD607,643579,605508,94.08%
+Himachal Pradesh,Una,SD608,521057,580314,111.37%
+Uttar Pradesh,Unnao,SD609,3110595,2545218,81.82%
+Arunachal Pradesh,Upper Siang,SD610,35289,25393,71.96%
+Arunachal Pradesh,Upper Subansiri,SD611,83205,40009,48.08%
+West Bengal,Uttar Dinajpur,SD612,3000849,2323666,77.43%
+Karnataka,Uttara Kannada,SD613,1436847,1412122,98.28%
+Uttarakhand,Uttarkashi,SD614,329686,288518,87.51%
+Gujarat,Vadodara,SD615,4157568,3670638,88.29%
+Bihar,Vaishali,SD616,3495249,2573190,73.62%
+Gujarat,Valsad,SD617,1703068,1613701,94.75%
+Uttar Pradesh,Varanasi,SD618,3682194,3396740,92.25%
+Tamil Nadu,Vellore,SD619,3928106,3556399,90.54%
+Madhya Pradesh,Vidisha,SD620,1458212,1297968,89.01%
+Tamil Nadu,Viluppuram,SD621,3463284,3084875,89.07%
+Tamil Nadu,Virudhunagar,SD622,1943309,1852775,95.34%
+Andhra pradesh,Visakhapatnam,SD623,4288113,4360685,101.69%
+Andhra pradesh,Vizianagaram,SD624,2342868,2387333,101.90%
+Andhra pradesh,Warangal,SD625,3522644,3391893,96.29%
+Maharashtra,Wardha,SD626,1296157,1324891,102.22%
+Maharashtra,Washim,SD627,1196714,1165096,97.36%
+Kerala,Wayanad,SD628,816558,853006,104.46%
+Sikkim,West,SD629,136299,134658,98.80%
+Delhi,West Delhi,SD630,2531583,2921634,115.41%
+Meghalaya,West Garo Hills,SD631,642923,37123,5.77%
+Andhra pradesh,West Godavari,SD632,3934782,3988969,101.38%
+Arunachal Pradesh,West Kameng,SD633,87013,61755,70.97%
+Meghalaya,West Khasi Hills,SD634,385601,34078,8.84%
+Madhya Pradesh,West Nimar (Khargone),SD635,1872413,1765585,94.29%
+Arunachal Pradesh,West Siang,SD636,112272,62098,55.31%
+Tripura,West Tripura,SD637,1724619,1695861,98.33%
+Nagaland,Wokha,SD638,166239,63780,38.37%
+Karnataka,Yadgir,SD639,1172985,1116369,95.17%
+Haryana,Yamunanagar,SD640,1214162,1301533,107.20%
+Puducherry,Yanam,SD641,55616,21975,39.51%
+Maharashtra,Yavatmal,SD642,2775457,2708286,97.58%
+Nagaland,Zunheboto,SD643,141014,73224,51.93%
+Total,,,1210193422,1065697592,88.06%
